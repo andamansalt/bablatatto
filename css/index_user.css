@@ -1,0 +1,55 @@
+*{
+    font-family: 'Prompt', sans-serif;
+  }
+  body {
+    width: 100%;
+    height: auto;
+    display: grid;
+  }
+  .row{
+    width: 100%;
+    height: auto;
+  }
+  button.loginbutton{
+    border-radius: 20px;
+  }
+  .nav-link{
+    margin-inline: 25px;
+  }
+  button.bookingbtn.btn-primary.btn-lg.px-4.me-md-2{
+    margin-top: 4%;
+    width: 80%;
+    height: 56px;
+    border-radius: 50px;
+  }
+ #hero{
+  background: url("../img/line1.png");
+ }
+ #hero1{
+  background: url("../img/background.png");
+ }
+ .feat{
+  width: 100px;
+  height: auto;
+  margin: 15px;
+ }
+ .featue.col{
+  text-align: center;
+ }
+ .reviews{
+  width: 100%;
+  height: auto;
+  background-color: #FFE7D1;
+  padding: 20px;
+ }
+ /* Set the size of the div element that contains the map */
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+
+
+ 
